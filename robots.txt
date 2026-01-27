@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.erzincanmoto24nakliye.com/sitemap.xml
